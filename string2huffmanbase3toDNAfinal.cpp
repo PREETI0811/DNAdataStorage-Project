@@ -201,7 +201,7 @@ for(int i=0;i<s.size();i++)
         if(s[i]==D[j])
         h.append(to_string(HC[j]));
 }
-cout<<h;
+//cout<<h;
 getDNAcode(h);
 
 return 0;
